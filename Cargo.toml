@@ -1,0 +1,10 @@
+[package]
+name = "matrix-rust-sdk"
+version = "0.1.0"
+authors = ["idealwebsolutions <alex@idealwebsolutions.co>"]
+
+[dependencies]
+serde_json = "0.9"
+coarsetime = "0.1"
+futures = "0.1"
+reqwest = "0.5"
